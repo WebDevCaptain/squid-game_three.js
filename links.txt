@@ -1,0 +1,5 @@
+# Doll 3d Model
+https://sketchfab.com/3d-models/squid-game-giant-doll-7afd49dd07714651a6afa1fc4aac8576
+
+GSAP
+https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.1/gsap.min.js
